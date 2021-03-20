@@ -1,3 +1,6 @@
 ![www.hypermodularization.com](https://logo.hypermodularization.com/2/cover.png)
 
-# www.hypermodularization.com
+# hypermodularization
+www.hypermodularization.com
+
+It's a English written Book for sofwtare developers
