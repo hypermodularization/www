@@ -3,4 +3,6 @@
 # hypermodularization
 www.hypermodularization.com
 
-It's a English written Book for sofwtare developers
+It's a English written Book for software developers
+
+Book series for: designers, architects, developers, devops
