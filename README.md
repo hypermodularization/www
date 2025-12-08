@@ -1,6 +1,6 @@
 ![Modular Code by Hypermodularity - hypermodularization.github.io/www/](https://github.com/hypermodularization/www/assets/5669657/032940f9-6871-4e5a-8e5e-02728f081d8f)
 
-# [Modular Code by Hypermodularity](https://hypermodularization.github.io/www//)
+# [Modular Code by Hypermodularity](https://hypermodularization.github.io/www/)
 
 From CLEAN ideas to code SMELLs ... Let's talk about The Pragmatic Development based on [HyperModularity](https://wiki.opensourceecology.org/wiki/Hypermodularity)
 
@@ -808,19 +808,19 @@ Additionally, you can practice and experiment with modular programming by creati
 ## Menu
 
 
-+ [Hypermodular architecture](http://hypermodularization.github.io/www//#Hypermodular%20architecture)
-+ [Hyperspecialization](http://hypermodularization.github.io/www//#Hyperspecialization)
++ [Hypermodular architecture](http://hypermodularization.github.io/www/#Hypermodular%20architecture)
++ [Hyperspecialization](http://hypermodularization.github.io/www/#Hyperspecialization)
 
   
-+ [Hyperscaling](http://hypermodularization.github.io/www//#Hyperscaling)
-+ [hypermodularity](http://hypermodularization.github.io/www//#hypermodularity)
-+ [modular code](http://hypermodularization.github.io/www//#modular%20code)
-+ [modular programming](http://hypermodularization.github.io/www//#modular%20programming)
++ [Hyperscaling](http://hypermodularization.github.io/www/#Hyperscaling)
++ [hypermodularity](http://hypermodularization.github.io/www/#hypermodularity)
++ [modular code](http://hypermodularization.github.io/www/#modular%20code)
++ [modular programming](http://hypermodularization.github.io/www/#modular%20programming)
 
-+ [Design](http://hypermodularization.github.io/www//Design)
-+ [Adoption](http://hypermodularization.github.io/www//Adoption)
-+ [Modularity](http://hypermodularization.github.io/www//Modularity)
-+ [Reusability](http://hypermodularization.github.io/www//Reusability)
++ [Design](http://hypermodularization.github.io/www/Design)
++ [Adoption](http://hypermodularization.github.io/www/Adoption)
++ [Modularity](http://hypermodularization.github.io/www/Modularity)
++ [Reusability](http://hypermodularization.github.io/www/Reusability)
   
 ---
 
