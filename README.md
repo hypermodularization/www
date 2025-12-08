@@ -1,4 +1,4 @@
-![Modular Code by Hypermodularity - coders.info](https://github.com/coders-info/www/assets/5669657/032940f9-6871-4e5a-8e5e-02728f081d8f)
+![Modular Code by Hypermodularity - coders.info](https://github.com/hypermodularization/www/assets/5669657/032940f9-6871-4e5a-8e5e-02728f081d8f)
 
 # [Modular Code by Hypermodularity](https://www.coders.info/)
 
@@ -95,7 +95,7 @@ Higher level modules depend on abstraction, not implementation
 
 That flowchart represents the software development life cycle with its stages and some of the units that need to be controlled at each stage. 
 
-![sdlc2](https://github.com/coders-info/www/assets/5669657/c13803af-7335-41fb-8c4d-33e096d4d055)
+![sdlc2](https://github.com/hypermodularization/www/assets/5669657/c13803af-7335-41fb-8c4d-33e096d4d055)
 
 
 ## Modularity
@@ -140,7 +140,7 @@ Using these principles, developers are encouraged to pay attention to the bigger
 The concept of hypermodularity has been taken to the next level, where modularity is extremely pronounced, allowing for even greater flexibility, customization, interchangeability and scalability.
 
 
-![Modular code of network](https://github.com/coders-info/www/assets/5669657/ccee5072-87d6-413c-ba33-37d4777d8a8f)
+![Modular code of network](https://github.com/hypermodularization/www/assets/5669657/ccee5072-87d6-413c-ba33-37d4777d8a8f)
 
 
 
@@ -468,7 +468,7 @@ It's worth noting that there is no strict technical term for a monolith that ser
 
 ## Benefeits
 
-![Hypermodularity](https://github.com/coders-info/www/assets/5669657/6b4fed6e-9c54-4c0b-a2f3-00771d5b9f09)
+![Hypermodularity](https://github.com/hypermodularization/www/assets/5669657/6b4fed6e-9c54-4c0b-a2f3-00771d5b9f09)
 
 Modular programming offers several benefits for developers, such as reducing code complexity and size, enhancing modularity and cohesion, increasing reusability and portability, and facilitating collaboration and communication.
 
@@ -593,7 +593,7 @@ The modular component is a self-contained unit within a system, characterized by
 Modular component is a modular unit with a specific role, designed to be executed within a particular environment, providing an interface that mediates between its internal logic/data handling and the broader system. 
 
 
-![Component](https://github.com/coders-info/www/assets/5669657/f3b73df8-e2bb-4cdb-a435-dd4f8c1ef5f7)
+![Component](https://github.com/hypermodularization/www/assets/5669657/f3b73df8-e2bb-4cdb-a435-dd4f8c1ef5f7)
 
 
 It possesses the following characteristics:
@@ -621,7 +621,7 @@ The component one running service that can be written or reused thanks to succes
 
 This is the hyper modular network of code ...
 
-![Modular Components](https://github.com/coders-info/www/assets/5669657/a31c890b-5007-43d9-b623-dafbd6f3fef4)
+![Modular Components](https://github.com/hypermodularization/www/assets/5669657/a31c890b-5007-43d9-b623-dafbd6f3fef4)
 
 
 + [ModularComponents.mp4 animation](ModularComponents.mp4)
@@ -632,7 +632,7 @@ This is the hyper modular network of code ...
 Hyper-modular development emphasizes the use of highly reusable, encapsulated code modules that can be configured and connected through dependencies to create complex systems.
 In this paradigm, rather than writing extensive new code, developers focus on integrating existing modules, each providing a specific piece of functionality that can be independently developed, tested, and maintained.
 
-![hypermodular-development2](https://github.com/coders-info/www/assets/5669657/a8c06fbe-66d5-4970-88eb-2e866be0f1d4)
+![hypermodular-development2](https://github.com/hypermodularization/www/assets/5669657/a8c06fbe-66d5-4970-88eb-2e866be0f1d4)
 
 
 In this flowchart, each node represents a step or unit of control within the hyper-modular development process:
@@ -837,6 +837,6 @@ Additionally, you can practice and experiment with modular programming by creati
 
 ## Contributions
 
-+ [edit](https://github.com/coders-info/www/edit/main/README.md)
-+ [issue](https://github.com/coders-info/www/issues/new)
-+ [all projects](https://github.com/coders-info/)
++ [edit](https://github.com/hypermodularization/www/edit/main/README.md)
++ [issue](https://github.com/hypermodularization/www/issues/new)
++ [all projects](https://github.com/hypermodularization/)
